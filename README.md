@@ -43,5 +43,5 @@ The goal of this project is to strengthen my grasp of Flutter fundamentals—par
 1. **Clone the repository**
 
    ```bash
-   git clone https://github.com/your-username/quizzler_flutter_app.git
+   git clone https://github.com/ALAN-K-BIJU/quizzler_flutter_app.git
    cd quizzler_flutter_app
